@@ -1,2 +1,2 @@
 # mehedibd24
-mytest file will be added here. this is only educational purposes.
+My test file will be added here. This is only educational purposes only.
